@@ -1,0 +1,12 @@
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\bin\Debug\Locadora.Games.Generica.Entity.dll.config
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\bin\Debug\Locadora.Games.Generica.Entity.dll
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\bin\Debug\Locadora.Games.Generica.Entity.pdb
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\bin\Debug\EntityFramework.dll
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\bin\Debug\EntityFramework.xml
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\obj\Debug\Locadora.Games.Generica.Entity.csprojAssemblyReference.cache
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\obj\Debug\Locadora.Games.Generica.Entity.csproj.CoreCompileInputs.cache
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\obj\Debug\Locadora.Games.Generica.Entity.csproj.CopyComplete
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\obj\Debug\Locadora.Games.Generica.Entity.dll
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Generica.Entity\obj\Debug\Locadora.Games.Generica.Entity.pdb

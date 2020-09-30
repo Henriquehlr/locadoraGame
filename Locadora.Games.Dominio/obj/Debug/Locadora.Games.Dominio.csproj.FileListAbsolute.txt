@@ -1,0 +1,12 @@
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\bin\Debug\Locadora.Games.Dominio.dll.config
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\bin\Debug\Locadora.Games.Dominio.dll
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\bin\Debug\Locadora.Games.Dominio.pdb
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\obj\Debug\Locadora.Games.Dominio.csprojAssemblyReference.cache
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\obj\Debug\Locadora.Games.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\obj\Debug\Locadora.Games.Dominio.csproj.CopyComplete
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\obj\Debug\Locadora.Games.Dominio.dll
+C:\Users\joaof\source\repos\Locadora.Games\Locadora.Games.Dominio\obj\Debug\Locadora.Games.Dominio.pdb
